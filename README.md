@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Luiz Otavio and I'm a from Brasil</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz23-lgtm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz23-lgtm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW96dm5tam10cndjb29tYXp6cWdlM3ppc2U2ZWQ4cDZ3dXRuczZsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.gif"  />
 
 ###
